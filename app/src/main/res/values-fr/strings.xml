@@ -6,4 +6,11 @@
     <string name="LoginName">Identifiant</string>
     <string name="PWText">Mot de passe</string>
     <string name="SwitchText">Qu\'est-ce que cela fait?</string>
+    <string name="DialogMsg">Terminer l\'activité??</string>
+    <string name="DialogTitle">Attention!</string>
+    <string name="DialogYes">D\'accord</string>
+    <string name="DialogNo">Annuler</string>
+    <string name="ToastSwitchOn">Commutateur est activé</string>
+    <string name="ToastSwitchOff">Commutateur n\'est activé pas</string>
+    <string name="ListItemsActivityResponse">ListItemsActivity passé: L\'utilisateur a appuyé sur "OK"</string>
 </resources>

@@ -6,4 +6,11 @@
     <string name="LoginName">Login name</string>
     <string name="PWText">Password</string>
     <string name="SwitchText">What does this do?</string>
+    <string name="DialogMsg">Finish activity?</string>
+    <string name="DialogTitle">Attention!</string>
+    <string name="DialogYes">OK</string>
+    <string name="DialogNo">Cancel</string>
+    <string name="ToastSwitchOn">Switch is On</string>
+    <string name="ToastSwitchOff">Switch is Off</string>
+    <string name="ListItemsActivityResponse">ListItemsActivity passed: User pressed "OK"</string>
 </resources>

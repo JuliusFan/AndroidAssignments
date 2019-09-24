@@ -38,5 +38,13 @@
         android:ems="10"
         android:inputType="textPassword" />
 
+    <Button
+        android:id="@+id/button"
+        android:layout_width="400px"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:text="@string/LoginText" />
+
 
 </LinearLayout>
