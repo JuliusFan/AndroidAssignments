@@ -2,6 +2,8 @@
     <string name="app_name">AndroidAssignments</string>
     <string name="hello_message">Hello World!</string>
     <string name="ButtonText">I\’m a button</string>
+    <string name="ButtonChat">Start Chat</string>
+    <string name="ButtonSend">Send</string>
     <string name="LoginText">Login</string>
     <string name="LoginName">Login name</string>
     <string name="PWText">Password</string>
