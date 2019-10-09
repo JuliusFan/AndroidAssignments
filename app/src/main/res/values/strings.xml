@@ -4,6 +4,7 @@
     <string name="ButtonText">I\’m a button</string>
     <string name="ButtonChat">Start Chat</string>
     <string name="ButtonSend">Send</string>
+    <string name="ButtonToolbar">Test Toolbar</string>
     <string name="LoginText">Login</string>
     <string name="LoginName">Login name</string>
     <string name="PWText">Password</string>
@@ -15,4 +16,14 @@
     <string name="ToastSwitchOn">Switch is On</string>
     <string name="ToastSwitchOff">Switch is Off</string>
     <string name="ListItemsActivityResponse">ListItemsActivity passed: User pressed "OK"</string>
+    <string name="title_activity_test_toolbar">Test toolbar</string>
+    <string name="Action1">One</string>
+    <string name="Action2">Two</string>
+    <string name="Action3">Three</string>
+    <string name="ActionAbout">About</string>
+    <string name="ToastVersion">Version 1.0, by Julius Fan</string>
+    <string name="SnackbarAction1">You selected item 1</string>
+    <string name="DialogToolbar">Do you want to go back?</string>
+    <string name="SnackbarLetter">Floating action clicked</string>
+    <string name="DialogNewMessageHint">New message</string>
 </resources>
