@@ -5,6 +5,7 @@
     <string name="ButtonChat">Commencer Discussion</string>
     <string name="ButtonSend">Envoyer</string>
     <string name="ButtonToolbar">barre d\'outils</string>
+    <string name="ButtonWeather">Mauvais</string>
     <string name="LoginText">S\'identifier</string>
     <string name="LoginName">Identifiant</string>
     <string name="PWText">Mot de passe</string>
@@ -26,4 +27,7 @@
     <string name="DialogToolbar">Veux-tu y retourner?</string>
     <string name="SnackbarLetter">Action flottante cliqué</string>
     <string name="DialogNewMessageHint">Nouveau message</string>
+    <string name="CurrentTemp">Température Actuelle</string>
+    <string name="MaxTemp">Température Maximale</string>
+    <string name="MinTemp">Température Minimale</string>
 </resources>

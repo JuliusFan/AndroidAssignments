@@ -5,6 +5,7 @@
     <string name="ButtonChat">Start Chat</string>
     <string name="ButtonSend">Send</string>
     <string name="ButtonToolbar">Test Toolbar</string>
+    <string name="ButtonWeather">Weather</string>
     <string name="LoginText">Login</string>
     <string name="LoginName">Login name</string>
     <string name="PWText">Password</string>
@@ -26,4 +27,7 @@
     <string name="DialogToolbar">Do you want to go back?</string>
     <string name="SnackbarLetter">Floating action clicked</string>
     <string name="DialogNewMessageHint">New message</string>
+    <string name="CurrentTemp">Current Temperature</string>
+    <string name="MaxTemp">Max Temperature</string>
+    <string name="MinTemp">Min Temperature</string>
 </resources>
