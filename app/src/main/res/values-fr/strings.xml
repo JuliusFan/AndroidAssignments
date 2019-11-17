@@ -30,4 +30,7 @@
     <string name="CurrentTemp">Température Actuelle</string>
     <string name="MaxTemp">Température Maximale</string>
     <string name="MinTemp">Température Minimale</string>
+    <string name="ButtonDeleteMsg">Supprimer Ce Message</string>
+    <string name="MessageHere">MessageIci</string>
+    <string name="IdDeleteMsg">ID=</string>
 </resources>
